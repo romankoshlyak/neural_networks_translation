@@ -1,3 +1,4 @@
 Captions file name YouTube link Video name
 aircAruvnKk.sbv	https://www.youtube.com/watch?v=aircAruvnKk But what is a Neural Network? | Deep learning, chapter 1
 IHZwWFHWa-w.sbv https://www.youtube.com/watch?v=IHZwWFHWa-w Gradient descent, how neural networks learn | Deep learning, chapter 2
+9vKqVkMQHKk.sbv https://www.youtube.com/watch?v=9vKqVkMQHKk The paradox of the derivative | Essence of calculus, chapter 2
